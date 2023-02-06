@@ -1,0 +1,8 @@
+Drink, Coca-Cola, 120, 16, Soda, 2
+Drink, Coca-Cola, 120, 16, Soda, 4
+Drink, Coca-Cola, 120, 16, Soda, 1
+Snack, Chips, 220, 4, false, 8
+Drink, Pepsi, 120, 16, Soda, 3
+Snack, Chips, 220, 4, false, 2
+Drink, Pepsi, 120, 16, Soda, 4
+Drink, Coca-Cola, 120, 16, Soda, 1
